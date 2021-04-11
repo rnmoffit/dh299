@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Rebecca Moffit writes about electronic literature!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is part of a Digital Humanities Capstone Project. I am looking at the ways in which electronic literature, interactive fiction, and other digital projects can be integrated into traditional library cataloging system - first by seeing how they are organized in born-digital collections, then by determining the best practices for describing them in an OPAC (with FRBR, RDA, and LOC standards - should be interesting!)
 
 ### Contact me
 
