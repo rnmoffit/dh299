@@ -1,0 +1,19 @@
+---
+layout: post
+title: A Digital Analog Library
+---
+Something a little different to think about...
+
+Having spent over a year reading on the computer, I miss libraries terribly. It's laughable to think that digital collections would ever replace physical libraries - being able to browse, touch, even smell the books is one of life's joys.
+
+While e-lit collections can't be shelved among the stacks for obvious reasons, it's interesting to think of ways in which they can be browsed, almost recreating the in-person experience. Earlier in the quarter, I stumbled upon Jonathan Bazile's Library of Babel project - an artistic/technological rendering of Jorge Luis Borges' short story/though experiment. The concept is a little too mathematical for me to think about, but the interface is worth exploring. 
+
+Visitors to the library can use search bars to look for books with specific words (I'll explain in a second), or used various dropdown menus to narrow down their search. However, they can also browse through drawings. After choosing a "hex" from literally thousands of options, users are shown a black-and-white drawing of a hexagonal room full of books. No matter which hex was chosen, the image is the same: four walls consist entirely of bookshelves (the other two walls are presumably doorways) and a gap in the floor reveals a glimpse of other hexes below, equally filled with books. After clicking on one of the four walls, the user's view narrows to a single, wall-sized bookshelf; subsequently, they can choose one of the five shelves, and from there, one of the thirty-two volumes lined up on the shelves. Each book has a title displayed on its spine, and clicking on one will take the user to a full-length book of randomly-generated letter arrangements. (The point is that, among the randomness, any word ever thought can be found within the collection). While the contents of the book are completely random, the book itself is an object in the library that can be found again through its call number (Hex - Wall - Shelf - Volume : Page). 
+
+I love the interactivity of the drawings; they are effective visualizations of Borges' original concept. <digression> It reminded me of the time I was introduced to HyperCard in Middle School ("You mean, I can draw a house, click on the door, and then go INSIDE the house? WHAT?!") Alas, I was never able to complete my HyperCard masterpiece, and in a way, I've never stopped looking for its replacement... (Is it Adobe Animate? Twine? Something else?) </digression> 
+
+When I tried to visualize this design being used to make a virtual library for electronic literature --so that visitors could browse the digital stacks-- I quickly realized how complicated it would get. This project works because the books have no content or meaning that needs to be coherently organized and arranged. The classification system describes where an object exists in the virtual stacks, but this positioning is completely random: there is no arrangement by subject, author, title, publication date, or other attributes. 
+
+Even if the project were modified to shelve electronic literature, there's a lot of decisions that need to be made for how items are organized. Are the Hexes based on Author nationality, with Walls denoting subject matter, Shelves organized by author, and Volumes alphabetized by title? Such decisions exclude other arrangements by design system, genre, and chronology. A directory of electronic literature can be browsed and filtered by the metadata assigned to each work, which is more complicated to do if the call numbers describe a fixed location. We would still need a useable catalog in order to find specific pieces. 
+
+Regardless whether or not it has any practical applications, the Library of Babel is a fascinating work of e-lit in itself, and it definitely sparks the imagination as to what an infinite library would look like. 
